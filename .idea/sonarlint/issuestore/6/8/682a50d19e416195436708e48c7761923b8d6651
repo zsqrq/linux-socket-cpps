@@ -1,0 +1,12 @@
+
+q	cpp:S5276F"Wimplicit conversion loses integer precision: 'size_type' (aka 'unsigned long') to 'int'(¼‘°Ùøÿÿÿÿ
+q	cpp:S5276b"Wimplicit conversion loses integer precision: 'size_type' (aka 'unsigned long') to 'int'(ƒê÷úÿÿÿÿ
+Qcpp:S954r"8Move these 3 #include directives to the top of the file.(İ’Ğ—øÿÿÿÿ
+;	cpp:S3642"&Replace this "enum" with "enum class".(öƒ„†
+C	cpp:S58179")This function should be declared "const".(õ¼ş¦øÿÿÿÿ
+X	cpp:S6004G">Use the init-statement to declare "n" inside the if statement.(ŒÎ¶Áùÿÿÿÿ
+C	cpp:S5817E")This function should be declared "const".(ŞÒÓëúÿÿÿÿ
+R	cpp:S1238E"8Pass expensive to copy object "s" by reference to const.(ŞÒÓëúÿÿÿÿ
+C	cpp:S5817a")This function should be declared "const".(Ô ’ëûÿÿÿÿ
+J	cpp:S1659f"0Define each identifier in a dedicated statement.(ßºóÿÿÿÿÿ
+H	cpp:S3642§"&Replace this "enum" with "enum class".(ÄÄ¬Àşÿÿÿÿ8ö‚ùÔ«1
