@@ -1,0 +1,13 @@
+# ninja log v5
+1	56	1697613640908225875	unixip/intro/CMakeFiles/daytimetcpclisrv.dir/daytimetcpclisrv.cpp.o	e5e89ddf9a7e6c03
+60	76	1697600275562102752	unixip/intro/daytimetcpcli	90e193b8dab4ac93
+77	92	1697609764013533752	unixip/intro/daytimetcpclisrv	aee21609cb7b12e
+53	69	1697607640946735389	unixip/intro/daytimetcpcliv6	92dc911c13cb259d
+2	74	1697609763997533682	unixip/lib/CMakeFiles/unix-ip-lib.dir/wrapsock.cpp.o	efa40530fc36a757
+0	53	1697607640930735133	unixip/intro/CMakeFiles/daytimetcpcliv6.dir/daytimetcpcliv6.cpp.o	ea5229d907271d48
+74	77	1697609764001533699	unixip/lib/libunix-ip-lib.a	55e33c029701f177
+1	63	1697594991259227671	unixip/lib/CMakeFiles/unix-ip-lib.dir/error.cpp.o	b5300e25e9ce6aec
+1	60	1697600275538101891	unixip/intro/CMakeFiles/daytimetcpcli.dir/daytimetcpcli.cpp.o	a3b1859491c4e599
+1	68	1697613742413803482	unixip/lib/CMakeFiles/unix-ip-lib.dir/wrapunix.cpp.o	c1f2dd6efa6bfb3b
+68	72	1697613742417803544	unixip/lib/libunix-ip-lib.a	a959e178265ee1ba
+72	86	1697613742433803791	unixip/intro/daytimetcpclisrv	aee21609cb7b12e

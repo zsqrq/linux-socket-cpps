@@ -1,0 +1,13 @@
+/home/wz/Desktop/playground/excesise/cmake-build-debug/CMakeFiles/excesise.dir
+/home/wz/Desktop/playground/excesise/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/wz/Desktop/playground/excesise/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/wz/Desktop/playground/excesise/cmake-build-debug/unixip/CMakeFiles/edit_cache.dir
+/home/wz/Desktop/playground/excesise/cmake-build-debug/unixip/CMakeFiles/rebuild_cache.dir
+/home/wz/Desktop/playground/excesise/cmake-build-debug/unixip/intro/CMakeFiles/daytimetcpcli.dir
+/home/wz/Desktop/playground/excesise/cmake-build-debug/unixip/intro/CMakeFiles/daytimetcpcliv6.dir
+/home/wz/Desktop/playground/excesise/cmake-build-debug/unixip/intro/CMakeFiles/daytimetcpclisrv.dir
+/home/wz/Desktop/playground/excesise/cmake-build-debug/unixip/intro/CMakeFiles/edit_cache.dir
+/home/wz/Desktop/playground/excesise/cmake-build-debug/unixip/intro/CMakeFiles/rebuild_cache.dir
+/home/wz/Desktop/playground/excesise/cmake-build-debug/unixip/lib/CMakeFiles/unix-ip-lib.dir
+/home/wz/Desktop/playground/excesise/cmake-build-debug/unixip/lib/CMakeFiles/edit_cache.dir
+/home/wz/Desktop/playground/excesise/cmake-build-debug/unixip/lib/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,1 @@
+/usr/bin/g++ -g CMakeFiles/daytimetcpcliv6.dir/daytimetcpcliv6.cpp.o -o daytimetcpcliv6  ../lib/libunix-ip-lib.a 

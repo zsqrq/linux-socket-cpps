@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="CMakePresetLoader">{
+  &quot;useNewFormat&quot;: true
+}</component>
+  <component name="CMakeReloadState">
+    <option name="reloaded" value="true" />
+  </component>
+  <component name="CMakeRunConfigurationManager">
+    <generated>
+      <config projectName="excesise" targetName="daytimetcpcliv6" />
+      <config projectName="excesise" targetName="daytimetcpclisrv" />
+      <config projectName="excesise" targetName="daytimetcpcli" />
+      <config projectName="excesise" targetName="unix-ip-lib" />
+      <config projectName="excesise" targetName="excesise" />
+    </generated>
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" ENABLED="true" CONFIG_NAME="Debug" GENERATION_OPTIONS="-G &quot;Unix Makefiles&quot;" />
+      <configuration PROFILE_NAME="Release" ENABLED="true" CONFIG_NAME="Release" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="733576c1-3e1f-4dfa-8a77-5916dfd86a11" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Release" />
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CMakeLists.txt" />
+      </list>
+    </option>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectApplicationVersion">
+    <option name="ide" value="CLion" />
+    <option name="majorVersion" value="2022" />
+    <option name="minorVersion" value="3.2" />
+  </component>
+  <component name="ProjectId" id="2RJz6DV4ysjqaXQDQERgkX4GBHL" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.cidr.known.project.marker&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;cf.first.check.clang-format&quot;: &quot;false&quot;,
+    &quot;cidr.known.project.marker&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/home/wz/Desktop/playground/excesise/unixip/intro&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;CMakeSettings&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/unixip/intro" />
+    </key>
+  </component>
+  <component name="RunManager" selected="CMake Application.daytimetcpclisrv">
+    <configuration name="daytimetcpcli" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="excesise" TARGET_NAME="daytimetcpcli" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="excesise" RUN_TARGET_NAME="daytimetcpcli">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="daytimetcpclisrv" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="excesise" TARGET_NAME="daytimetcpclisrv" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="excesise" RUN_TARGET_NAME="daytimetcpclisrv">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="daytimetcpcliv6" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="excesise" TARGET_NAME="daytimetcpcliv6" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="excesise" RUN_TARGET_NAME="daytimetcpcliv6">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="excesise" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="excesise" TARGET_NAME="excesise" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="excesise" RUN_TARGET_NAME="excesise">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="unix-ip-lib" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="excesise" TARGET_NAME="unix-ip-lib" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="PleaseTestConfigurationType" factoryName="PleaseRunConfigurationType.Factory" target="//some:target" pleaseRoot="" pleaseArgs="" tests="">
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="CMake Application.excesise" />
+      <item itemvalue="CMake Application.daytimetcpcli" />
+      <item itemvalue="CMake Application.daytimetcpclisrv" />
+      <item itemvalue="CMake Application.daytimetcpcliv6" />
+      <item itemvalue="CMake Application.unix-ip-lib" />
+    </list>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="733576c1-3e1f-4dfa-8a77-5916dfd86a11" name="Changes" comment="" />
+      <created>1686982794766</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1686982794766</updated>
+      <workItem from="1686982795997" duration="4363000" />
+      <workItem from="1687226610201" duration="1893000" />
+      <workItem from="1687305988173" duration="2759000" />
+      <workItem from="1687658116678" duration="10619000" />
+      <workItem from="1687849167353" duration="675000" />
+      <workItem from="1687997957095" duration="2180000" />
+      <workItem from="1688342954205" duration="912000" />
+      <workItem from="1688343957080" duration="6398000" />
+      <workItem from="1688971412918" duration="6111000" />
+      <workItem from="1689564334039" duration="10605000" />
+      <workItem from="1690098569899" duration="2334000" />
+      <workItem from="1690423711304" duration="389000" />
+      <workItem from="1690698360398" duration="4490000" />
+      <workItem from="1693363668166" duration="33000" />
+      <workItem from="1693363706226" duration="48000" />
+      <workItem from="1695347602655" duration="1523000" />
+      <workItem from="1697592334969" duration="14863000" />
+      <workItem from="1697676718291" duration="2511000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>

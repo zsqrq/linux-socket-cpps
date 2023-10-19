@@ -1,0 +1,183 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"childIndexes" : 
+					[
+						1
+					],
+					"jsonFile" : "directory-.-Release-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.26"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						3
+					]
+				},
+				{
+					"build" : "unixip",
+					"childIndexes" : 
+					[
+						2,
+						3
+					],
+					"jsonFile" : "directory-unixip-Release-0634ebe9578e3eb6afca.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.26"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 1,
+					"source" : "unixip"
+				},
+				{
+					"build" : "unixip/intro",
+					"jsonFile" : "directory-unixip.intro-Release-c9a8a846d994086f2fe2.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.26"
+					},
+					"parentIndex" : 1,
+					"projectIndex" : 2,
+					"source" : "unixip/intro",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				},
+				{
+					"build" : "unixip/lib",
+					"jsonFile" : "directory-unixip.lib-Release-e89f8f99fefa6f50c38f.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.26"
+					},
+					"parentIndex" : 1,
+					"projectIndex" : 3,
+					"source" : "unixip/lib",
+					"targetIndexes" : 
+					[
+						4
+					]
+				}
+			],
+			"name" : "Release",
+			"projects" : 
+			[
+				{
+					"childIndexes" : 
+					[
+						1
+					],
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "excesise",
+					"targetIndexes" : 
+					[
+						3
+					]
+				},
+				{
+					"childIndexes" : 
+					[
+						2,
+						3
+					],
+					"directoryIndexes" : 
+					[
+						1
+					],
+					"name" : "unix-ip",
+					"parentIndex" : 0
+				},
+				{
+					"directoryIndexes" : 
+					[
+						2
+					],
+					"name" : "unix-ip-intro",
+					"parentIndex" : 1,
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				},
+				{
+					"directoryIndexes" : 
+					[
+						3
+					],
+					"name" : "unix-ip-lib",
+					"parentIndex" : 1,
+					"targetIndexes" : 
+					[
+						4
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 2,
+					"id" : "daytimetcpcli::@d065bc2cb3c21c54e5a8",
+					"jsonFile" : "target-daytimetcpcli-Release-224245fd8a0b6a54ac45.json",
+					"name" : "daytimetcpcli",
+					"projectIndex" : 2
+				},
+				{
+					"directoryIndex" : 2,
+					"id" : "daytimetcpclisrv::@d065bc2cb3c21c54e5a8",
+					"jsonFile" : "target-daytimetcpclisrv-Release-b7987b179b41e730d953.json",
+					"name" : "daytimetcpclisrv",
+					"projectIndex" : 2
+				},
+				{
+					"directoryIndex" : 2,
+					"id" : "daytimetcpcliv6::@d065bc2cb3c21c54e5a8",
+					"jsonFile" : "target-daytimetcpcliv6-Release-bd4910c766bd3d6241ac.json",
+					"name" : "daytimetcpcliv6",
+					"projectIndex" : 2
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "excesise::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-excesise-Release-7432ce0e2935812f1532.json",
+					"name" : "excesise",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 3,
+					"id" : "unix-ip-lib::@cab1e4bc5d5eef32890a",
+					"jsonFile" : "target-unix-ip-lib-Release-56db9914a4d2717c83fa.json",
+					"name" : "unix-ip-lib",
+					"projectIndex" : 3
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/wz/Desktop/playground/excesise/cmake-build-release",
+		"source" : "/home/wz/Desktop/playground/excesise"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 6
+	}
+}

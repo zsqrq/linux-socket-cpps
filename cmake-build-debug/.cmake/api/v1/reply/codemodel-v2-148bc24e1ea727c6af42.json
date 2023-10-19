@@ -1,0 +1,183 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"childIndexes" : 
+					[
+						1
+					],
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.26"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						3
+					]
+				},
+				{
+					"build" : "unixip",
+					"childIndexes" : 
+					[
+						2,
+						3
+					],
+					"jsonFile" : "directory-unixip-Debug-0634ebe9578e3eb6afca.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.26"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 1,
+					"source" : "unixip"
+				},
+				{
+					"build" : "unixip/intro",
+					"jsonFile" : "directory-unixip.intro-Debug-c9a8a846d994086f2fe2.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.26"
+					},
+					"parentIndex" : 1,
+					"projectIndex" : 2,
+					"source" : "unixip/intro",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				},
+				{
+					"build" : "unixip/lib",
+					"jsonFile" : "directory-unixip.lib-Debug-e89f8f99fefa6f50c38f.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.26"
+					},
+					"parentIndex" : 1,
+					"projectIndex" : 3,
+					"source" : "unixip/lib",
+					"targetIndexes" : 
+					[
+						4
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"childIndexes" : 
+					[
+						1
+					],
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "excesise",
+					"targetIndexes" : 
+					[
+						3
+					]
+				},
+				{
+					"childIndexes" : 
+					[
+						2,
+						3
+					],
+					"directoryIndexes" : 
+					[
+						1
+					],
+					"name" : "unix-ip",
+					"parentIndex" : 0
+				},
+				{
+					"directoryIndexes" : 
+					[
+						2
+					],
+					"name" : "unix-ip-intro",
+					"parentIndex" : 1,
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				},
+				{
+					"directoryIndexes" : 
+					[
+						3
+					],
+					"name" : "unix-ip-lib",
+					"parentIndex" : 1,
+					"targetIndexes" : 
+					[
+						4
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 2,
+					"id" : "daytimetcpcli::@d065bc2cb3c21c54e5a8",
+					"jsonFile" : "target-daytimetcpcli-Debug-e3dce5c5d1ed54e7c0e8.json",
+					"name" : "daytimetcpcli",
+					"projectIndex" : 2
+				},
+				{
+					"directoryIndex" : 2,
+					"id" : "daytimetcpclisrv::@d065bc2cb3c21c54e5a8",
+					"jsonFile" : "target-daytimetcpclisrv-Debug-62ab0a5783cea8e317c5.json",
+					"name" : "daytimetcpclisrv",
+					"projectIndex" : 2
+				},
+				{
+					"directoryIndex" : 2,
+					"id" : "daytimetcpcliv6::@d065bc2cb3c21c54e5a8",
+					"jsonFile" : "target-daytimetcpcliv6-Debug-90eb0c3d21a1f0d01a82.json",
+					"name" : "daytimetcpcliv6",
+					"projectIndex" : 2
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "excesise::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-excesise-Debug-b0702bd296dbb9fc157c.json",
+					"name" : "excesise",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 3,
+					"id" : "unix-ip-lib::@cab1e4bc5d5eef32890a",
+					"jsonFile" : "target-unix-ip-lib-Debug-b0adf125e5f29b3262a7.json",
+					"name" : "unix-ip-lib",
+					"projectIndex" : 3
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/wz/Desktop/playground/excesise/cmake-build-debug",
+		"source" : "/home/wz/Desktop/playground/excesise"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 6
+	}
+}

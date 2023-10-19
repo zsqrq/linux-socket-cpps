@@ -1,0 +1,2 @@
+/usr/bin/ar qc libunix-ip-lib.a "CMakeFiles/unix-ip-lib.dir/error.cpp.o" "CMakeFiles/unix-ip-lib.dir/wrapsock.cpp.o" "CMakeFiles/unix-ip-lib.dir/wrapunix.cpp.o"
+/usr/bin/ranlib libunix-ip-lib.a

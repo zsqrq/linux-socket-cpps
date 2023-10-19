@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/daytimetcpcli.dir/daytimetcpcli.cpp.o -o daytimetcpcli  ../lib/libunix-ip-lib.a 

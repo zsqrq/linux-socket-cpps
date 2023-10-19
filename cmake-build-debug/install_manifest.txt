@@ -1,0 +1,2 @@
+/home/wz/Desktop/playground/excesise/cmake-build-debug/install/bin/excesise
+/home/wz/Desktop/playground/excesise/cmake-build-debug/install/bin/excesise

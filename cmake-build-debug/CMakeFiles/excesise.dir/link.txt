@@ -1,0 +1,1 @@
+/usr/bin/g++ -g CMakeFiles/excesise.dir/main.cpp.o -o excesise 
