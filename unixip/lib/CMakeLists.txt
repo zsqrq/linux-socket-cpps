@@ -1,4 +1,6 @@
 cmake_minimum_required(VERSION 3.26)
 project(unix-ip-lib)
 
-add_library(unix-ip-lib error.cpp wrapsock.cpp wrapunix.cpp)
+aux_source_directory(${CMAKE_CURRENT_SOURCE_DIR} SOC_LIB_SRCS)
+
+add_library(unix-ip-lib ${SOC_LIB_SRCS} sock_cmp_addr.cpp)
