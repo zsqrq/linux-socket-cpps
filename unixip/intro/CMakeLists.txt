@@ -21,3 +21,7 @@ add_executable(byterorder byteorder.cpp)
 target_link_libraries(byterorder
         unix-ip-lib
         )
+add_executable(daytimetcpclisrv1 daytimetcpclisrv1.cpp)
+target_link_libraries(daytimetcpclisrv1
+    unix-ip-lib
+    )
