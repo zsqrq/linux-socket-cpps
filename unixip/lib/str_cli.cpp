@@ -3,8 +3,7 @@
 //
 #include "common/unp.h"
 
-void
-str_cli(FILE *fp, int sockfd)
+void str_cli(FILE *fp, int sockfd)
 {
   char	sendline[MAXLINE], recvline[MAXLINE];
 

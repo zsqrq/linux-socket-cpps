@@ -3,4 +3,4 @@ project(unix-ip-lib)
 
 aux_source_directory(${CMAKE_CURRENT_SOURCE_DIR} SOC_LIB_SRCS)
 
-add_library(unix-ip-lib ${SOC_LIB_SRCS} str_echo.cpp str_cli.cpp wrapstdio.cpp writen.cpp readline.cpp)
+add_library(unix-ip-lib ${SOC_LIB_SRCS} str_echo.cpp str_cli.cpp wrapstdio.cpp writen.cpp readline.cpp signal.cpp)
