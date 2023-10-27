@@ -9,6 +9,21 @@ add_library(sigchldwaitpid sigchldwaitpid.cpp)
 target_link_libraries(sigchldwaitpid
     unix-ip-lib)
 
+add_library(str_cli11 str_cli11.cpp)
+target_link_libraries(str_cli11
+    unix-ip-lib)
+
+add_library(str_cli09 str_cli09.cpp)
+target_link_libraries(str_cli09
+    unix-ip-lib)
+
+add_library(str_echo08 str_echo08.cpp)
+target_link_libraries(str_echo08
+    unix-ip-lib)
+
+add_library(str_echo09 str_echo09.cpp)
+target_link_libraries(str_echo09
+    unix-ip-lib)
 
 add_executable(tcpserv01 tcpserv01.cpp)
 target_link_libraries(tcpserv01
