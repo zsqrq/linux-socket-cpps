@@ -44,3 +44,11 @@ target_link_libraries(tcpserv02
 add_executable(tcpcli04 tcpcli04.cpp)
 target_link_libraries(tcpcli04
     unix-ip-lib sigchldwait)
+
+add_executable(tcpservselect01 tcpservselect01.cpp)
+target_link_libraries(tcpservselect01
+    unix-ip-lib sigchldwait)
+
+add_executable(tcpservpoll01 tcpservpoll01.cpp)
+target_link_libraries(tcpservpoll01
+    unix-ip-lib sigchldwait)
